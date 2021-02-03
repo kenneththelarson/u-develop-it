@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/kenneththelarson/u-develop-it/issues"
   },
-  "homepage": "https://github.com/kenneththelarson/u-develop-it#readme"
+  "homepage": "https://github.com/kenneththelarson/u-develop-it#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
